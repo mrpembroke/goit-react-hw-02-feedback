@@ -1,0 +1,18 @@
+.button {
+  margin-left: 20px;
+  padding: 2px 20px;
+
+  font-size: 10px;
+  border-radius: 5px;
+  border: 1px solid 000;
+  background-color: ccc;
+  color: 000;
+}
+
+.button:hover {
+  background-color: rgb(9, 248, 21);
+}
+
+.button:first-child {
+  margin-left: 0;
+}

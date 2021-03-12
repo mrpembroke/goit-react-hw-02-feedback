@@ -1,0 +1,8 @@
+.paragraph {
+  margin: 0;
+}
+
+.positive {
+  font-weight: bold;
+  color: green;
+}
